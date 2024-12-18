@@ -29,6 +29,7 @@ import {
   EPAY,
   nike,
   admin,
+  Restaurants,
 } from "../assets";
 
 export const navLinks = [
